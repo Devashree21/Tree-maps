@@ -6,7 +6,7 @@ Building Treemaps using Python
 **1) What is this repository about?**
 
 In this repository, we are going to build treemaps in 3 different ways in Python.
-The jupyter notebook (.ipynb) as well as this readme provide the code and all the relevant information about this tutorial.
+The jupyter notebook (.ipynb) provides the code and this readme shares all the relevant information about this tutorial.
 
 **2) What is Treemap?**
 
